@@ -6,7 +6,7 @@ Create SMACrossover Class
 
 Create Get Data Function 
 
-Calcutate Log Returns and Simple Moving Averages (Short 
+Calcutate Log Returns and Simple Moving Averages (Short and Long)
 
 Calcutate Buy and Hold Returns and Drawdown Columns
  
